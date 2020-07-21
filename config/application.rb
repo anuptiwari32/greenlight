@@ -131,7 +131,7 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://raw.githubusercontent.com/bigbluebutton/greenlight/master/app/assets/images/logo_with_text.png"
+    config.branding_image_default = "https://seemaxschool.co.in/public/uploads/settings/291054be85cad21e5fa9f582cab129d9.png"
 
     # Default primary color if the user does not specify one
     config.primary_color_default = "#61ba6d"
